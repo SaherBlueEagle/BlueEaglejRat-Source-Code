@@ -8,6 +8,8 @@
 # لمشاهدة فيديو طريقة استخدام البرنامج  الرابط الجديد بالأسفل👌 
 https://blueeaglehacks.blogspot.com/2020/08/blue-eagle-java-rat.html
 # ملحوظة.  يمكنكم عمل شرح/ تطوير للبرنامج إن استطعتم 😅👌
+
+# Tutorial : https://blueeaglehacks.blogspot.com/2020/08/blue-eagle-java-rat.html
 <p align="center">
 <img src="https://raw.githubusercontent.com/SaherBlueEagle/BlueEaglejRat-Source-Code/main/BlueEaglejrat.png" ><br>
 
